@@ -1,6 +1,6 @@
 AUTHOR = 'Jason Kim'
 SITENAME = 'My Site'
-SITEURL = ''
+SITEURL = 'jaskim9824.github.io'
 
 PATH = 'content'
 
