@@ -1,7 +1,8 @@
 AUTHOR = 'Jason Kim'
 SITENAME = 'My Site'
-SITEURL = 'jaskim9824.github.io'
+# SITEURL = 'https://jaskim9824.github.io'
 
+SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'America/Edmonton'
@@ -26,6 +27,8 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
+
+THEME='templates/mytheme'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
